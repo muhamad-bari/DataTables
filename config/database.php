@@ -2,9 +2,8 @@
 // parameter koneksi database
 $sql_details = array(
     'user' => 'root',
-    'pass' => 'root',
+    'pass' => '',
     'db'   => 'i_penjualan',
     'host' => 'localhost'
 );
 $con = $sql_details;
-?>
